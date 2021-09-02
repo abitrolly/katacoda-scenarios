@@ -1,0 +1,24 @@
+{
+  "title": "PyPI Development Environment",
+  "description": "Getting started with Warehouse development which powers https://pypi.org/",
+  "difficulty": "Beginner",
+  "time": "60 minutes",
+  "details": {
+    "steps": [
+      {
+        "title": "Step 1",
+        "text": "step1.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md"
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {},
+  "backend": {
+    "imageid": "python:3.8"
+  }
+}
