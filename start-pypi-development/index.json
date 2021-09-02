@@ -1,6 +1,6 @@
 {
   "title": "PyPI Development Environment",
-  "description": "Setup development environment for Warehouse that powers Python Package Index",
+  "description": "Get started with patching Warehouse that powers Python Package Index",
   "difficulty": "Beginner",
   "time": "60 minutes",
   "details": {
