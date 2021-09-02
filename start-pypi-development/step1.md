@@ -5,7 +5,7 @@ git clone https://github.com/pypa/warehouse.git
 cd warehouse
 ```{{execute}}
 
-Install `docker-compose`.
+Install `docker-compose` ([docs](https://docs.docker.com/compose/install/)).
 
 ```
 curl -L "https://github.com/docker/compose/releases/download/1.29.2/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
