@@ -1,6 +1,6 @@
 {
   "title": "PyPI Development Environment",
-  "description": "Getting started with Warehouse development which powers https://pypi.org/",
+  "description": "Getting started with Warehouse <b>development</b> **that** powers https://pypi.org/",
   "difficulty": "Beginner",
   "time": "60 minutes",
   "details": {
