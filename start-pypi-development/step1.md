@@ -5,9 +5,10 @@ git clone https://github.com/pypa/warehouse.git
 cd warehouse
 ```{{execute}}
 
-Build container images.
+The next step is to build container images.
 
 ```
 make build
 ```{{execute}}
 
+While they are building, you may continue to the next step.
