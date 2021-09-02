@@ -8,6 +8,10 @@
       {
         "title": "Step 1 - Getting Source",
         "text": "step1.md"
+      },
+      {
+        "title": "Step 2 - Run & Test",
+        "text": "step2.md"
       }
     ],
     "intro": {
