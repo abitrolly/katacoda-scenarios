@@ -1,6 +1,6 @@
 {
   "title": "PyPI Development Environment",
-  "description": "Getting started with Warehouse <b>development</b> **that** powers https://pypi.org/",
+  "description": "Setup development environment for Warehouse that powers Python Package Index",
   "difficulty": "Beginner",
   "time": "60 minutes",
   "details": {
